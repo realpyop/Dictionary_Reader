@@ -1,0 +1,5 @@
+WORD POS : DEFINITION
+Grumpy Adjective : bad-tempered and irritable
+Professor Noun : a teacher of the highest rank in a college or university
+Does Verb : perform (an action, often of unspecified nature)
+Nothing Adverb : not at all
